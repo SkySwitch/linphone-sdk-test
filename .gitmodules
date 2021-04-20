@@ -124,6 +124,3 @@
 [submodule "msandroidcamera2"]
 	path = msandroidcamera2
 	url = https://gitlab.linphone.org/BC/public/msandroidcamera2.git
-[submodule "rapidjson"]
-	path = rapidjson
-	url = https://github.com/Tencent/rapidjson.git
